@@ -1,0 +1,1 @@
+This repo is used for recording technical interviews problems, sorting algorithms and data structures.
